@@ -1,5 +1,5 @@
 {
-  "name": "DEP",
+  "name": "shipit",
   "version": "1.2.0",
   "description": "This module allows you to connect to many shipping carriers like UPS and FedEx and download tracking data for your packages in a common schema",
   "main": "lib/main.js",
@@ -43,6 +43,6 @@
   "license": "MIT",
   "gitHead": "98fae33441e8059229d7c824d29665b57322b13d",
   "bugs": {
-    "url": "https://github.com/escalationstracker/DEPissues"
+    "url": "https://github.com/escalationstracker/DEP/issues"
   }
 }
